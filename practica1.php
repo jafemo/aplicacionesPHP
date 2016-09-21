@@ -1,4 +1,4 @@
 <?php
-
-	echo "Me llamo Javi"
+	$nombre="Javi";
+	echo "Hola" . $nombre;
 ?>
